@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chardthoco.github.io/sitemap
+Sitemap: https://chardthoco.github.io/app/sitemap
+Sitemap: https://chardthoco.github.io/assets/sitemap
+Sitemap: https://chardthoco.github.io/css/sitemap
+Sitemap: https://chardthoco.github.io/includes/sitemap
+Sitemap: https://chardthoco.github.io/item/sitemap
+Sitemap: https://chardthoco.github.io/src/sitemap
